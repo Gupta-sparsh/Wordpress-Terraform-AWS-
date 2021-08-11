@@ -1,1 +1,1 @@
-# Wordpress-Terraform-AWS-
+# Wordpress-Terraform (AWS)
