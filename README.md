@@ -9,7 +9,7 @@ An Amazon EC2 instance is a virtual server in Amazon's Elastic Compute Cloud (EC
 ### Steps ###
 1) [Click here](https://www.terraform.io/downloads.html) to open the download page for Terraform.
 2) Extract the downloaded binary file to the desired directory.
-3) Add the 
+3) Add the directory in system's PATH.
 
 
 
